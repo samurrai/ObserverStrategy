@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ObserverState\ObserverState\bin\Debug\ObserverState.exe.config
+C:\Users\User\source\repos\ObserverState\ObserverState\bin\Debug\ObserverState.exe
+C:\Users\User\source\repos\ObserverState\ObserverState\bin\Debug\ObserverState.pdb
+C:\Users\User\source\repos\ObserverState\ObserverState\obj\Debug\ObserverStrategy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObserverState\ObserverState\obj\Debug\ObserverState.exe
+C:\Users\User\source\repos\ObserverState\ObserverState\obj\Debug\ObserverState.pdb
